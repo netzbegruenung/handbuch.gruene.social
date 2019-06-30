@@ -1,0 +1,44 @@
+# GRUENE.SOCIAL Handbuch für Anwender*innen
+
+## Inhalt (TODO-Liste)
+
+- Mastodon
+  - ActivityPub
+  - Web UI und andere Apps, Clients
+- Beiträge (Toots, Tröts)
+  - Beitragstext
+  - Mediendateien anhängen
+  - Inhaltswarnungen
+  - Adressieren von Nutzer*innen
+  - Sichtbarkeit und Zielgruppen
+- Interaktion mit Beiträgen
+  - Antworten
+  - Als Favorit markieren
+  - Boosten
+- Folgen und gefolgt werden
+- Timelines
+  - Lokale Timeline
+  - Föderation
+- Übersicht der Mitteilungen
+- Übersicht der Favoriten
+- Übersicht der Listne
+- Profilverzeichnis
+- Einstellungen
+  - Eigenes Profil
+    - Aussehen
+    - Empfohlene Hashtags
+  - Einstellungen
+    - Aussehen
+    - Benachrichtigungen
+    - Weiteres
+  - Folger_innen und Gefolgte
+  - Filter
+  - Konto
+    - Konto und Sicherheit
+    - Zwei-Faktor-Auth
+    - Authorisierte Anwendungen
+  - Importieren und Exportieren
+    - Datenimport
+    - Datenexport
+  - Entwicklung
+  - Abmelden
