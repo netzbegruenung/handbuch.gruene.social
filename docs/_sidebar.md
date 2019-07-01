@@ -1,0 +1,2 @@
+* [Home](/)
+* [Mastodon](mastodon.md)
