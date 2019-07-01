@@ -1,8 +1,10 @@
 # GRUENE.SOCIAL Handbuch für Anwender*innen
 
-## Inhalt (TODO-Liste)
+## Inhalt
 
-- Mastodon
+oder besser: Wunschliste für Inhalt
+
+- [Mastodon](mastodon.md)
   - ActivityPub
   - Web UI und andere Apps, Clients
 - Beiträge (Toots, Tröts)
@@ -15,13 +17,14 @@
   - Antworten
   - Als Favorit markieren
   - Boosten
+- Probleme melden
 - Folgen und gefolgt werden
 - Timelines
   - Lokale Timeline
   - Föderation
 - Übersicht der Mitteilungen
 - Übersicht der Favoriten
-- Übersicht der Listne
+- Übersicht der Listen
 - Profilverzeichnis
 - Einstellungen
   - Eigenes Profil
@@ -42,3 +45,6 @@
     - Datenexport
   - Entwicklung
   - Abmelden
+- APIs und RSS-Feeds
+
+Dieses Handbuch kannst Du selbst durch Pull Requests auf [GitHub](https://github.com/netzbegruenung/handbuch.gruene.social) verbessern.
