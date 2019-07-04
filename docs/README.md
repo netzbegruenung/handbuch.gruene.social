@@ -5,7 +5,7 @@
 oder besser: Wunschliste für Inhalt
 
 - [Mastodon](mastodon.md)
-  - ActivityPub
+  - [ActivityPub](activitypub.md)
   - Web UI und andere Apps, Clients
 - Beiträge (Toots, Tröts)
   - Beitragstext
