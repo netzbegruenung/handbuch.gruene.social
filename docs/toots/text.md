@@ -12,7 +12,7 @@ Damit ist der Anwendungszweck von Mastodon sicherlich auf gewisse Arten der Komm
 
 [Emoji](https://de.wikipedia.org/wiki/Emoji) sind Symbole und Piktogramme, die in Text eingefügt werden können. Mastodon unterstützt Emoji ähnlich, wie man es schon von vielen Social-Media-Plattformen und Messengern kennt.
 
-![Toot mit Emoji](img/emoji-toot.png?1)
+![Toot mit Emoji](img/emoji-toot.png)
 
 Zum Einfügen von Emoji in eine neue Nachricht gibt es ein Menü. Du kannst es über einen Klick auf das ausgegraute Smiley-Icon 😂 rechts oben im Eingabefeld für den Nachrichtentext öffnen.
 
