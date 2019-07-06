@@ -6,6 +6,8 @@
 
 Die Länge eines Beitrags ist auf **500 Zeichen** beschränkt. Bei der Eingabe in der Web-Oberfläche wird Dir angezeigt, wie viele Zeichen Du noch eingeben kannst, bis Du diese Grenze erreicht hast.
 
+![Eingabefeld für den Nachrichtentext](img/toot-form-screenshot.png)
+
 Damit ist der Anwendungszweck von Mastodon sicherlich auf gewisse Arten der Kommunikation beschränkt. Wer die Längenbeschränkung auf Mastodon überwinden möchte, muss mehrere Nachrichten in Folge absenden und sich dabei am besten per Antwort-Funktion jeweils auf die erste Nachricht beziehen.
 
 ## Emoji
