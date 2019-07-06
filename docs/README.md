@@ -6,7 +6,7 @@ oder besser: Wunschliste für Inhalt
 
 - [Mastodon](mastodon.md)
   - [ActivityPub](activitypub.md)
-  - Web UI und andere Apps, Clients
+  - [Web-Oberfläche, Apps und Clients](apps-clients.md)
 - Beiträge (Toots, Tröts)
   - Beitragstext
   - Mediendateien anhängen
