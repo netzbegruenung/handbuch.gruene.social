@@ -9,14 +9,30 @@
   <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
 </head>
 <body>
+  <script src="//unpkg.com/docsify-edit-on-github/index.js"></script>
   <div id="app"></div>
   <script>
+    var docBase = 'https://github.com/netzbegruenung/handbuch.gruene.social/tree/master/docs/';
     window.$docsify = {
       name: 'Das Anwender*innen-Handbuch für GRUENE.SOCIAL',
       repo: 'https://github.com/netzbegruenung/handbuch.gruene.social',
-      loadSidebar: true
+      loadSidebar: true,
+      alias: {
+        '/.*/_sidebar.md': '/_sidebar.md'
+      },
+      subMaxLevel: 2,
+      pagination: {
+        previousText: 'Zurück',
+        nextText: 'Weiter',
+        crossChapter: true
+      },
+      plugins: [
+        EditOnGithubPlugin.create(docBase, null, 'Diese Seite verbessern')
+      ]
     }
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+  <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
+  
 </body>
 </html>

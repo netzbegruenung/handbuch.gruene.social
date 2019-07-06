@@ -1,18 +1,16 @@
 # GRUENE.SOCIAL Handbuch für Anwender*innen
 
-## Inhalt
+Hier kannst Du erfahren, was Mastodon ist, wie man es benutzt und was das besondere an GRUENE.SOCIAL ist.
 
-oder besser: Wunschliste für Inhalt
+**Diese Anleitung befindet sich im Aufbau.**
 
-- [Mastodon](mastodon.md)
-  - [ActivityPub](activitypub.md)
-  - [Web-Oberfläche, Apps und Clients](apps-clients.md)
-- [Beiträge (Toots, Tröts)](toots.md)
-  - [Beitragstext](toots-text.md)
-  - [Mediendateien anhängen](toots-media.md)
-  - Inhaltswarnungen
-  - Adressieren von Nutzer*innen
-  - Sichtbarkeit und Zielgruppen
+Vorhandene Inhalte findest Du (in der Desktop-Version) in der linken Spalte. Eine Wunschliste, also noch nicht erstellte Inhalte, findest Du unten.
+
+## Wunschliste {docsify-ignore}
+
+- Beiträge: Inhaltswarnungen
+- Beiträge: Adressieren von Nutzer*innen
+- Beiträge: Sichtbarkeit und Zielgruppen
 - Interaktion mit Beiträgen
   - Antworten
   - Als Favorit markieren
