@@ -9,7 +9,7 @@ Eine wesentliche Information vorweg: bei Mastodon haben die Beiträge oder Nachr
 Die Funktion zur Eingabe eines Toot ist in der Weboberfläche praktisch unübersehbar, links oben.
 
 - [Beitragstext](toots-text.md)
-- Mediendateien anhängen
+- [Mediendateien anhängen](toots-media.md)
 - Inhaltswarnungen
 - Adressieren von Nutzer*innen
 - Sichtbarkeit und Zielgruppen

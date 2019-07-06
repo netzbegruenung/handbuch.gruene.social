@@ -9,7 +9,7 @@ oder besser: Wunschliste für Inhalt
   - [Web-Oberfläche, Apps und Clients](apps-clients.md)
 - [Beiträge (Toots, Tröts)](toots.md)
   - [Beitragstext](toots-text.md)
-  - Mediendateien anhängen
+  - [Mediendateien anhängen](toots-media.md)
   - Inhaltswarnungen
   - Adressieren von Nutzer*innen
   - Sichtbarkeit und Zielgruppen

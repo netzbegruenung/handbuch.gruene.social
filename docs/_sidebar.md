@@ -4,3 +4,4 @@
   * [Web-Oberfläche, Apps und Clients](apps-clients.md)
 * [Beiträge](toots.md)
   * [Beitragstext](toots-text.md)
+  * [Mediendateien](toots-media.md)
