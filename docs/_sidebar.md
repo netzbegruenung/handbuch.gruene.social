@@ -1,4 +1,6 @@
 * [Home](/)
 * [Mastodon](mastodon.md)
-* [ActivityPub](activitypub.md)
-* [Web-Oberfläche, Apps und Clients](apps-clients.md)
+  * [ActivityPub](activitypub.md)
+  * [Web-Oberfläche, Apps und Clients](apps-clients.md)
+* [Beiträge](toots.md)
+  * [Beitragstext](toots-text.md)

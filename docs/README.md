@@ -7,8 +7,8 @@ oder besser: Wunschliste für Inhalt
 - [Mastodon](mastodon.md)
   - [ActivityPub](activitypub.md)
   - [Web-Oberfläche, Apps und Clients](apps-clients.md)
-- Beiträge (Toots, Tröts)
-  - Beitragstext
+- [Beiträge (Toots, Tröts)](toots.md)
+  - [Beitragstext](toots-text.md)
   - Mediendateien anhängen
   - Inhaltswarnungen
   - Adressieren von Nutzer*innen
