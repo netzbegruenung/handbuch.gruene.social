@@ -63,4 +63,14 @@ Nutzer\*innen müssen ein solches Bild eigens anklicken, um es angezeigt zu beko
 
 **Hinweis zu unseren Regeln**: In unserem [Verhaltenskodex](https://gruene.social/about/more#codeofconduct) fordern wir alle Nutzer\*innen von GRUENE.SOCIAL dazu auf, gegebenenfalls von dieser Möglichkeit Gebrauch zu machen. Bitte weist andere Nutzer\*innen darauf hin, wenn Sie Eurer Meinung nach heikle Inhalte nicht markiert haben und wendet Euch an [@moderation](https://gruene.social/@moderation), wenn Ihr Unterstützung benötigt.
 
-TODO: Videos, Audio, Links etc.
+## Video
+
+Toots können auch ein Video bzw. mehrere Videos enthalten. Das Hinzufügen funktioniert genau so, wie weiter oben für Bilder beschrieben.
+
+Sofern ein Video eine Tonspur enthält, wird es in der Web-Oberfläche von Mastodon in einem Video-Player angezeigt, mit dem es beispielsweise im Vollbild-odus angezeigt werden kann. Nutzer\*innen können darüber hinaus an bestimmte Positionen springen. Hat das Video keine Tonspur, spielt es dagegen in einer Endlosschleife ohne derartige Player-Funktionen.
+
+## Audio-Dateien
+
+Auch Audio-Dateien können über Mastodon in Nachrichten geteilt werden. Es können, wie auch bei Bildern, mehrere Dateien in einem Toot enthalten sein. Dabei kann auch hier eine Beschreibung mitgeliefert werden.
+
+Die Web-Oberfläche von Mastodon stellt Audio-Dateien aktuell in dem selben Player dar, der auch für Videos mit Tonspur genutzt wird.
