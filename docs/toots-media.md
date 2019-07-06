@@ -18,7 +18,7 @@ Ein Klick darauf öffnet einen Dateiauswahl-Dialog Deines Betriebssystems. Damit
 
 ### Bild einfügen über die Zwischenablage
 
-Alternativ kannst Du Bilder auch direkt aus der **Zwischenablage** einfügen. Setze dazu die Eingabemarke in das Textfeld und benutze den Tastaturbefehl, den Dein Betriebssystem Dir zur Verfügung stellt (z. B. `Strg + V` unter Windows, `Cmd + V` unter Mac OS) oder Benutze das Kontextmenü im Eingabefeld (meist über Rechtsklick erreichbar) und rufe die Funktion _Einfügen_ auf.
+Alternativ kannst Du Bilder auch direkt aus der **Zwischenablage** einfügen. Setze dazu die Eingabemarke in das Textfeld und benutze den Tastaturbefehl, den Dein Betriebssystem Dir zur Verfügung stellt (z. B. `Strg + V` unter Windows, `Cmd + V` unter Mac OS) oder benutze das Kontextmenü im Eingabefeld (meist über Rechtsklick erreichbar) und rufe die Funktion _Einfügen_ auf.
 
 ### Drag and Drop
 
