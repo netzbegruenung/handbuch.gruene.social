@@ -4,11 +4,15 @@
 
 Wenn Du in einem Toot eine\*n andere\*n Nutzer\*in erwähnen oder ansprechen möchtest, kannst Du einfach ihren/seinen Nutzer\*innennamen in der üblichen Schreibweise
 
-    @<user>@<domain>
+    @user@domain
 
 verwenden. Wichtig ist, dass ein @-Zeichen am Anfang des Namens steht.
 
 **Sprach-Hinweis:** Im Englischen heißen solche Erwähnungen deswegen auch _@-mentions_ bzw. _at-mentions_.
+
+Sollte also der Benutzername beispielsweise `angela` lauten, und die Domain `gruene.social`, könnt Ihr die Nutzerin so ansprechen:
+
+    @angela@gruene.social
 
 Wass passiert, wenn Du jemanden auf diese Art in einem Beitrag erwähnst?
 
