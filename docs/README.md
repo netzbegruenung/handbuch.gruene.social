@@ -9,13 +9,12 @@ Vorhandene Inhalte findest Du (in der Desktop-Version) in der linken Spalte. Ein
 ## Wunschliste {docsify-ignore}
 
 - Beiträge: Inhaltswarnungen
-- Beiträge: Sichtbarkeit und Zielgruppen
 - Beiträge: Umfragen
 - Interaktion mit Beiträgen
   - Als Favorit markieren
   - Boosten
 - Probleme melden
-- Folgen und gefolgt werden
+- Netzwerk: Folgen und gefolgt werden
 - Timelines
   - Lokale Timeline
   - Föderation

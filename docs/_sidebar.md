@@ -7,3 +7,4 @@
   - [Hashtags](toots/hashtags.md)
   - [Adressieren von Nutzer\*innen](toots/mentions.md)
   - [Antworten und Threads](toots/replies-threads.md)
+  - [Sichtbarkeit und Zielgruppen](toots/visibility.md)
