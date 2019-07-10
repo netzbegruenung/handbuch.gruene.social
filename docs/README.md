@@ -9,10 +9,9 @@ Vorhandene Inhalte findest Du (in der Desktop-Version) in der linken Spalte. Ein
 ## Wunschliste {docsify-ignore}
 
 - Beiträge: Inhaltswarnungen
-- Beiträge: Adressieren von Nutzer*innen
 - Beiträge: Sichtbarkeit und Zielgruppen
+- Beiträge: Umfragen
 - Interaktion mit Beiträgen
-  - Antworten
   - Als Favorit markieren
   - Boosten
 - Probleme melden

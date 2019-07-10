@@ -6,3 +6,4 @@
   - [Mediendateien anhängen](toots/media.md)
   - [Hashtags](toots/hashtags.md)
   - [Adressieren von Nutzer\*innen](toots/mentions.md)
+  - [Antworten und Threads](toots/replies-threads.md)
