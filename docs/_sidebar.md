@@ -1,4 +1,5 @@
 - [Mastodon](mastodon/README.md)
+  - [Unterschiede zu Twitter](mastodon/twitter-comparison.md)
   - [ActivityPub](mastodon/activitypub.md)
   - [Web-Oberfläche, Apps und Clients](mastodon/apps-clients.md)
 - [Beiträge](toots/README.md)
