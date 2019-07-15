@@ -8,6 +8,8 @@
 
 - Beiträge auf Mastodon können bis zu 500 Zeichen lang sein. Bei Twitter sind es 280 Zeichen.
 
+- Bei Twitter können Beiträge durch "Re-Tweeten" weiterverbreitet werden. Dabei lässt sich optional ein eigener Kommentar voranstellen. Bei Mastodon können Beiträge "geboostet" werden. Das entspricht dem Re-Tweet ohne Kommentar. Eine Möglichkeit zum Boosten mit Kommentar gibt es bei Mastodon nicht.
+
 - Bei Twitter gibt es Werbung in Form von gesponsorten Tweets, denn damit finanziert der Betreiber den Dienst. Bei Mastodon gibt es keine Werbung, die Finanzierung erfolgt auf anderen Wegen.
 
 - Während bei Twitter die Aktivitäten von Nutzer\*innen sowohl durch Twitter als auch durch Google Analytics und andere Dienste getrackt werden, gibt es bei Mastodon kein Tracking. Es gibt auch keine erzwungenen Redirects wie bei Twitter, wo jeder Aufruf einer externen Domain über `t.co` umgeleitet und erfasst wird.
