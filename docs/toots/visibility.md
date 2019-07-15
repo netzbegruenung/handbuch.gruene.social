@@ -30,3 +30,12 @@ Diese Einstellung könnte jedoch nützlich sein, wenn Du selbst bestimmst, wer D
 ## Direktnachricht
 
 Nur die Nutzer\*innen, die Du in der Nachricht erwähnst, können die Nachricht sehen.
+
+️️⚠️ **Warnung zu Direktnachrichten**
+
+Da Nachrichten von Mastodon ja nicht nur an Mastodon-Accounts, sondern auch an Accounts auf anderen Plattformen gesendet werden können, ergibt sich ein mögliches Problem.
+
+Wie [fediverse.party](https://fediverse.party/en/mastodon/) schreibt:
+> Direct messages ("private messages") are delivered with limited visibility (non public) only between Mastodon users. Friends from other Fediverse networks may get such "direct messages" as public (visible to all) because some networks (GNU Social, postActiv) don't support DMs. Keep that in mind when sharing private information via a DM.
+
+Falls Du vertrauliche Informationen über Direktnachrichten versenden möchtest, solltest Du Dir also sicher sein, dass die Nutzer\*innen, die Du anschreibst, ebenfalls Mastodon nutzen.
