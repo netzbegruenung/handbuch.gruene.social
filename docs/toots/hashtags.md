@@ -8,7 +8,7 @@ Hashtags sind Begriffe, die mit einem vorangestellten _Hash_-Zeichen (`#`) gesch
 
 Hashtags können ausschließlich aus den folgenden Zeichen bestehen:
 
-- Buchstaben A bis Z bzw. a bis Z
+- Buchstaben A bis Z bzw. a bis z
 - Ziffern von 0 bis 9
 - Umlaute und vergleichbare Unicode-Zeichen
 - der Unterstrich `_`
