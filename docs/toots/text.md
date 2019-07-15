@@ -36,7 +36,7 @@ Mastodon unterstützt die **Eingabe von Emoji direkt über die Tastatur**, ohne 
 
 Dieses Menü findet, genau wie die Suche im Emoji-Menü, auch Teilbegriffe mitten im Emoji-Namen. Du kannst die Sonnenblume also beispielsweise auch finden, indem Du `:flow` eingibst und dann den richtigen Treffer auswählst.
 
-Das Menü kannst Du selbstverständlich komplett über die Tastatur bedienen, so dass Du texte mit Emoji bequem eingeben kannst, ohne einmal die Hände von der Tastatur nehmen zu müssen.
+Das Menü kannst Du selbstverständlich komplett über die Tastatur bedienen, so dass Du Texte mit Emoji bequem eingeben kannst, ohne einmal die Hände von der Tastatur nehmen zu müssen.
 
 ## Eigene Emoji
 
