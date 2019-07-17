@@ -8,7 +8,7 @@ Mit dem Smartphone kannst du sogenannte Token (Zahlen-Codes) generieren, die jew
 
 ## mobile Anwendungen
 
-Um 2FA nutzen zu können, benötigst du eine Anwendung auf deinem Smartphone, um die passenden Token generieren zu können.
+Um 2FA nutzen zu können, benötigst du eine Anwendung auf deinem Smartphone, um die passenden Token generieren zu können. In dieser Anleitung wird FreeOTP genutzt, es gibt aber auch weitere Anwensungen (z.B. Google Authenticator)
 
 ### Android
 
@@ -24,7 +24,7 @@ gehe in die Einstellungen deines Mastodon-Accounts und klicke erst auf "Konto", 
 
 ![erster Bildschirm zur Einrichtung von 2FA](img/2fa-einrichten.png)
 
-Du bekommst nun einen QR-Code, den du mit deiner 2FA-App auf dem Smartphone scannen musst. Oben in der App ist daszu ein kleines QR-Code-Symbol.
+Du bekommst nun einen QR-Code, den du mit deiner 2FA-App auf dem Smartphone scannen musst. Oben in der App ist dazu ein kleines QR-Code-Symbol.
 
 ![QR-Code zur Einrichtung von 2FA](img/2fa-qr-code.png)
 
