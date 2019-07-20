@@ -11,4 +11,4 @@
   - [Sichtbarkeit und Zielgruppen](toots/visibility.md)
   - [Inhaltswarnung](toots/content-warning.md)
 - [Einstellungen](settings/README.md)
-  - [Zwei Faktor Auth](toots/zwei-faktor-auth.md)
+  - [Zwei Faktor Auth](settings/zwei-faktor-auth.md)
