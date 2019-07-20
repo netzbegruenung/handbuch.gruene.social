@@ -20,7 +20,7 @@ Um 2FA nutzen zu können, benötigst du eine Anwendung auf deinem Smartphone, um
 
 ## Einrichtung
 
-gehe in die Einstellungen deines Mastodon-Accounts und klicke erst auf "Konto", dann auf "Zwei-Faktor-Auth". Betätige den "Einrichten"-Button.
+Gehe in die [Einstellungen deines Mastodon-Accounts](https://gruene.social/settings/two_factor_authentication) und klicke erst auf "Konto", dann auf "Zwei-Faktor-Auth". Betätige den "Einrichten"-Button.
 
 ![erster Bildschirm zur Einrichtung von 2FA](img/2fa-einrichten.png)
 
