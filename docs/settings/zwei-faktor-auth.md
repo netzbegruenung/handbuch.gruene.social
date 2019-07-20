@@ -34,7 +34,7 @@ Sobald der QR-Code erkannt wurde, ist ein neuer Eintrag in der App. Wenn du ihn 
 
 Um die Einrichtung von 2FA abzuschließen, musst du in Mastodon das aktuelle Token in das Feld unterhalb des QR-Codes eingeben und auf "Aktivieren" klicken
 
-Zum Abschluss bekommst du noch 10 "Wiederherstellungscodes". Diese sind zeitlich unabhängig und helfen dir, wieder Zugriff auf deinen Account zu bekommen, wenn du dein Smartphone verlierst oder die App löschst.
+Zum Abschluss bekommst du noch Codes zur Wiederherstellung. Diese sind zeitlich unbegrenzt gültig und helfen dir, wieder Zugriff auf deinen Account zu bekommen, falls du dein Smartphone verlierst oder die App löschst.
 
 Ab sofort wirst du beim Einloggen nach der Eingaben deiner Mail-Adresse und deines Passworts nach dem aktuellen Token gefragt.
 
