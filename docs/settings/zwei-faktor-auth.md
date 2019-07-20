@@ -1,4 +1,6 @@
-## Was ist Zwei-Faktor-Authentifizierung?
+# Zwei-Faktor-Authentifizierung
+
+**Hier erfährst Du, was Zwei-Faktor-Authentifizierung ist und wie Du sie in Mastodon aktivieren kannst, um Dein Benutzerkonto auf GRUENE.SOCIAL zu schützen.**
 
 Mit der Zwei-Faktor-Authentifizierung (2FA) kannst du deinen Account zusätzlich absichern. Du benötigst dafür zwei Dinge: 
 * etwas, was du weißt (dein Passwort)
