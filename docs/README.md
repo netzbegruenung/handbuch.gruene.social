@@ -33,7 +33,6 @@ Vorhandene Inhalte findest Du (in der Desktop-Version) in der linken Spalte. Ein
   - Filter
   - Konto
     - Konto und Sicherheit
-    - ~~Zwei-Faktor-Auth~~
     - Authorisierte Anwendungen
   - Importieren und Exportieren
     - Datenimport
