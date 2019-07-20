@@ -6,7 +6,7 @@ Mit der Zwei-Faktor-Authentifizierung (2FA) kannst du deinen Account zusätzlich
 
 Mit dem Smartphone kannst du sogenannte Token (Zahlen-Codes) generieren, die jeweils für 30 Sekunden gültig sind.
 
-## mobile Anwendungen
+## Mobile Anwendungen
 
 Um 2FA nutzen zu können, benötigst du eine Anwendung auf deinem Smartphone, um die passenden Token generieren zu können. In dieser Anleitung wird FreeOTP genutzt, es gibt aber auch weitere Anwensungen (z.B. Google Authenticator)
 
