@@ -13,7 +13,6 @@ Vorhandene Inhalte findest Du (in der Desktop-Version) in der linken Spalte. Ein
   - Boosten
 - Beiträge: Umfragen
 - Probleme melden
-- Netzwerk: Folgen und gefolgt werden
 - Timelines
   - Lokale Timeline
   - Föderation
