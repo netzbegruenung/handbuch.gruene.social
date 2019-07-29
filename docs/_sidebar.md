@@ -2,6 +2,8 @@
   - [Unterschiede zu Twitter](mastodon/twitter-comparison.md)
   - [ActivityPub](mastodon/activitypub.md)
   - [Web-Oberfläche, Apps und Clients](mastodon/apps-clients.md)
+- [Netzwerk](network/README.md)
+  - [Folgen und Folgende](network/following.md)
 - [Beiträge](toots/README.md)
   - [Beitragstext](toots/text.md)
   - [Mediendateien anhängen](toots/media.md)
