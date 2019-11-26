@@ -21,7 +21,7 @@ Deine Follower können den Toot sehen. Dazu wird er anderen Nutzer\*innen, die n
 
 Deine Follower können den Toot in ihren Zeitleisten sehen, andere Nutzer\*innen jedoch nicht. Trotzdem kann jede Nutzer\*in den Toot potentiell auf anderen Wegen finden.
 
-## Nur für Folger\*innen
+## Nur für Folger_innen
 
 Einen solchen Toot können nur Nutzer\*innen sehen, die Dir folgen. Sollte Nutzer\*in Dir folgen, nachdem der Beitrag abgesendet wurde, wird diese\*r den Betrag ab dann auch sehen können.
 
