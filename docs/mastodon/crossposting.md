@@ -2,7 +2,7 @@
 
 **Diese Seite erklärt, wie man eigene Tweets gleichzeitig auf Mastodon veröffentlichen kann.**
 
-Auch wenn wir uns freuen, wenn Nutzer primär Mastodon nutzen, kann es manchmal Gründe geben, die Kommuniation primär über Twitter abzuwickeln und auf Mastodon nur eine Kopie der Tweets dazulassen. Mit dieser Anleitung möchten wir dir zeigen, wie du Tweets auf Mastodon crossposten kannst.
+Auch wenn wir uns freuen, wenn Nutzer primär Mastodon nutzen, kann es manchmal Gründe geben, die Kommuniation primär über Twitter abzuwickeln und auf Mastodon nur eine Kopie der Tweets dazulassen. Oder man nutzt sogar primär Mastodon und lässt auf Twitter nur noch Kopien der eigenen Toots. Mit dieser Anleitung möchten wir dir zunächst zeigen, wie du Tweets auf Mastodon crossposten kannst.
 
 Die wohl einfachste Form besteht darin, den Crossposter von [masto.donte.com.br](https://crossposter.masto.donte.com.br/) zu nutzen.
 
