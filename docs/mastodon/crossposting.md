@@ -58,7 +58,7 @@ Nachdem der Crossposter eingerichtet ist, werden alle Tweets innerhalb kurzer Ze
 
 Wenn du einen Tweet wieder löschst, wird der dazugehörige Toot auf Mastodon dadurch nicht entfernt!
 
-## eingeräumte Rechte
+## Eingeräumte Rechte
 
 Der Crossposter erfordert eine Vielzahl an Rechten, was eventuell abschreckend wirkt. Die Anwendung ist auch in der Lage, Toots von Mastodon auf Twitter zu veröffentlichen und benötigt daher zum Beispiel auch das Recht, selber schreiben zu dürfen.
 
