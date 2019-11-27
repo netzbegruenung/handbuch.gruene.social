@@ -21,7 +21,7 @@ Rechts unten kannst du die Auslaufdauer der Umfrage einstellen. Nach der Zeitspa
 ## An Umfragen teilnehmen
 
 ### Eine Umfrage ausfüllen
-Wann immer jemand eine Umfrage erstellt hat, die noch nicht abgelaufen ist, und die für dich ![sichtbar ist](visibility.md), kannst du an dieser Umfrage teilnehmen. Du hast je nach den Einstellungen, die die erstellende Person gewählt hat, die Wahl zwischen 2-4 Möglichkeiten, und kannst entweder eine oder mehrere Stimmen abgeben. Außerdem kannst du sehen, wie viele Nutzer\*innen bereits an der Abstimmung teilgenommen haben, und wie lange die Umfrage noch offen sein wird. Wie auch bei anderen Toots kannst du auf den Toot antworten, oder die Umfrage favorisieren oder boosten.
+Wann immer jemand eine Umfrage erstellt hat, die noch nicht abgelaufen ist, und die für dich [sichtbar ist](visibility.md), kannst du an dieser Umfrage teilnehmen. Du hast je nach den Einstellungen, die die erstellende Person gewählt hat, die Wahl zwischen 2-4 Möglichkeiten, und kannst entweder eine oder mehrere Stimmen abgeben. Außerdem kannst du sehen, wie viele Nutzer\*innen bereits an der Abstimmung teilgenommen haben, und wie lange die Umfrage noch offen sein wird. Wie auch bei anderen Toots kannst du auf den Toot antworten, oder die Umfrage favorisieren oder boosten.
 
 ![Beispiel eines offenen Abstimmungs-Toots](img/toot-polls-open-poll-example.png)
 
