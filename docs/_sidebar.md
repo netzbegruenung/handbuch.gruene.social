@@ -9,6 +9,7 @@
   - [Beitragstext](toots/text.md)
   - [Mediendateien anhängen](toots/media.md)
   - [Hashtags](toots/hashtags.md)
+  - [Umfragen](toots/polls.md)
   - [Adressieren von Nutzer\*innen](toots/mentions.md)
   - [Antworten und Threads](toots/replies-threads.md)
   - [Sichtbarkeit und Zielgruppen](toots/visibility.md)
