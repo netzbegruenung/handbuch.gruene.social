@@ -2,7 +2,7 @@
 
 **Hier erfährst Du, welche Möglichkeiten es gibt, um am PC, am Smartphone und sonstwie mit Mastodon zu interagieren.**
 
-## Die Web-Oberfläche
+## Die offizielle Web-Oberfläche
 
 Mastodon verfügt über eine eigene Web-Oberfläche. Um diese zu erreichen, genügt es, die URL der Instanz zu kennen. Bei uns ist das:
 
@@ -11,6 +11,10 @@ https://gruene.social
 Diese Webanwendung, oder das Web User Interface (UI), sind sowohl mit Desktop-Browsern am PC als auch mit gängigen Browsern auf dem Smartphone nutzbar.
 
 Weil Mastodon auf dem offenen Standard [ActivityPub](activitypub.md) aufbaut, gibt es eine Reihe von Möglichkeiten, mit spezialisierten Anwendungen Beiträge zu erstellen, zu veröffentlichen, zu favorisieren und zu boosten, Nutzern\*innen zu folgen etc.
+
+## Alternative Web-Oberflächen
+
+- [**Pinafore**](https://pinafore.social/) - Web-Client für Mastodon, der nach eigener Aussage besonders mit Augenmerk auf Geschwindigkeit und Einfachheit entwickelt wird. Könnte eine sinnvolle Alternative auch auf Geräten mit knappen Ressourcen (RAM, CPU) sein.
 
 ## Mobile Apps
 
