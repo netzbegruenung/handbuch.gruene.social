@@ -14,7 +14,7 @@ Um 2FA nutzen zu können, benötigst du eine Anwendung auf deinem Smartphone, um
 
 ### Android
 
-- **FreeOTP** - kostenlos und quelloffen, im [Google Play Store](https://play.google.com/store/apps/details?id=org.fedorahosted.freeotp&hl=de) und über [F-Droid](https://f-droid.org/en/packages/org.fedorahosted.freeotp/) erhältlich.
+- **FreeOTP+** - kostenlos, quelloffen und mit Import/Export-Funktion, im [Google Play Store](https://play.google.com/store/apps/details?id=org.liberty.android.freeotpplus) und über [F-Droid](https://f-droid.org/de/packages/org.liberty.android.freeotpplus/) erhältlich.
 
 ### iOS
 
