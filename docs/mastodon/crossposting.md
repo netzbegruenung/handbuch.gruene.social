@@ -8,7 +8,7 @@ Die wohl einfachste Form besteht darin, den Crossposter von [masto.donte.com.br]
 
 Dort musst du der Anwendung Zugriff auf deinen Twitter-Feed geben (Hinweis zu den geforderten Rechten ganz unten).
 
-Anschließend musst du dich auch bei Mastodon anmelden.
+Anschließend musst du dich auch bei Mastodon mit deinem Benutzernamen (`name@gruene.social`) anmelden.
 
 ## Einstellungen
 
