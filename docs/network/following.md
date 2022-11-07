@@ -16,6 +16,8 @@ Folgst Du einem Profil, so wird der oder die gefolgte Nutzer\*in darüber benach
 
 Möchtest Du über Mastodon Menschen erreichen, ist es also ratsam, Dich selbst für andere Menschen zu interessieren und diesen zu folgen. Es sei denn, Du bist so bekannt bzw. berühmt, dass sich ohnehin viele für Dich interessieren.
 
+Bei einem Umzug von Twitter ist es außerdem ratsam, den Mastodon Handle in der Twitter Biografie zu erwähnen. So finden schon vorhandene Follower auf Twitter den neuen Mastodon Account, um auch dort folgen zu können.
+
 ## Wie folgt man?
 
 Praktisch geht das Folgen in Mastodon an verschiedenen Stellen:
@@ -42,6 +44,8 @@ Hier sind ein paar Möglichkeiten, wie Du aktiv nach interessante Profile suchen
 - [User Matching in Fediverse](https://distsn.org/user-match.html) ist ein Hilfsmittel, das versucht, Dir Profile vorzuschlagen, die inhaltlich ähnliche Beiträge veröffentlichen wie Du. Hierzu musst Du allerdings schon Inhalte veröffentlicht haben.
 
 - Die Suche nach einem Thema oder Hashtag, entweder auf GRUENE.SOCIAL oder auf einer anderen Instanz.
+
+- Die Tools [Debirdify](https://pruvisto.org/debirdify/) und [FediFinder](https://fedifinder.glitch.me/) durchsuchen die Biografien von Accounts, denen man auf Twitter folgt, nach Mastodon Handeln und schlagen diese dann vor. So kann man leicht Follows von Twitter übernehmen.
 
 ## Den Überblick behalten
 
