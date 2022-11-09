@@ -16,6 +16,8 @@ Folgst Du einem Profil, so wird der oder die gefolgte Nutzer\*in darüber benach
 
 Möchtest Du über Mastodon Menschen erreichen, ist es also ratsam, Dich selbst für andere Menschen zu interessieren und diesen zu folgen. Es sei denn, Du bist so bekannt bzw. berühmt, dass sich ohnehin viele für Dich interessieren.
 
+Bei einem Umzug von Twitter ist es außerdem ratsam, Dein neues Mastodon Handle in der Twitter Biografie zu erwähnen. So finden Deine schon vorhandene Follower auf Twitter den neuen Mastodon Account, um Dir auch dort folgen zu können.
+
 ## Wie folgt man?
 
 Praktisch geht das Folgen in Mastodon an verschiedenen Stellen:
@@ -25,7 +27,7 @@ Praktisch geht das Folgen in Mastodon an verschiedenen Stellen:
   - 2. Handelt es sich um ein Mastodon-Profil außerhalb von GRUENE.SOCIAL, findest Du ebenfalls einen Button "Folgen" oder "Follow", je nach Spracheinstellung der Mastodon-Instanz. Klickst Du auf diesen, wirst Du aufgefordert, anzugeben, von welchem Profil zu folgen möchtest.
   - 3. Ist das Profil kein Mastodon-Profil, kopierst Du am besten die URL der Seite. Diese gibst Du dann in das Suchfeld auf GRUENE.SOCIAL ein. Als Suchergebnis solltest Du genau einen Personen-Treffer finden, das auf der rechten Seite ein Icon trägt. Ist dieses grau, folgst Du dem Profil noch nicht und kannst es zum Folgen anklicken.
 
-Der nachfolgende Screenshot zeit ein Suchergebnis mit einem Treffer. Das Icon auf der rechten Seite kann angeklickt werden, um dem Profil zu folgen.
+Der nachfolgende Screenshot zeigt ein Suchergebnis mit einem Treffer. Das Icon auf der rechten Seite kann angeklickt werden, um dem Profil zu folgen.
 
 ![Aus dem Suchergebnis folgen](img/follow-from-search-result.png)
 
@@ -42,6 +44,8 @@ Hier sind ein paar Möglichkeiten, wie Du aktiv nach interessante Profile suchen
 - [User Matching in Fediverse](https://distsn.org/user-match.html) ist ein Hilfsmittel, das versucht, Dir Profile vorzuschlagen, die inhaltlich ähnliche Beiträge veröffentlichen wie Du. Hierzu musst Du allerdings schon Inhalte veröffentlicht haben.
 
 - Die Suche nach einem Thema oder Hashtag, entweder auf GRUENE.SOCIAL oder auf einer anderen Instanz.
+
+- Die Tools [Debirdify](https://pruvisto.org/debirdify/) und [FediFinder](https://fedifinder.glitch.me/) durchsuchen die Biografien von Accounts, denen Du auf Twitter folgst, nach Mastodon Handeln und schlagen Dir diese dann vor. So kannst Du leicht Follows von Twitter übernehmen.
 
 ## Den Überblick behalten
 
