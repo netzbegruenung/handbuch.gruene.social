@@ -6,7 +6,7 @@ Mit der Zwei-Faktor-Authentifizierung (2FA) kannst du deinen Account zusätzlich
 * etwas, was du weißt (dein Passwort)
 * etwas, das du hast (z.B. dein Smartphone)
 
-Mit dem Smartphone kannst du sogenannte Token (Zahlen-Codes) generieren, die jeweils für 30 Sekunden gültig sind.
+Mit dem Smartphone kannst du sogenannte Token (Zahlen-Codes) generieren, die jeweils für 30 Sekunden gültig sind. Durch die Aktivierung der Zwei-Faktor-Authentifizierung sicherst du deinen Account zusätzlich ab, wirst dabei jedoch nicht häufiger um Authentifizierung gebeten.
 
 ## Mobile Anwendungen
 
