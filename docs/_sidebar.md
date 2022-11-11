@@ -16,3 +16,4 @@
   - [Inhaltswarnung](toots/content-warning.md)
 - [Einstellungen](settings/README.md)
   - [Zwei Faktor Auth](settings/zwei-faktor-auth.md)
+  - [Link Verifizierung](settings/link-verification.md)
