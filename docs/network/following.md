@@ -16,7 +16,7 @@ Folgst Du einem Profil, so wird der oder die gefolgte Nutzer\*in darüber benach
 
 Möchtest Du über Mastodon Menschen erreichen, ist es also ratsam, Dich selbst für andere Menschen zu interessieren und diesen zu folgen. Es sei denn, Du bist so bekannt bzw. berühmt, dass sich ohnehin viele für Dich interessieren.
 
-Bei einem Umzug von Twitter ist es außerdem ratsam, Dein neues Mastodon Handle in der Twitter Biografie zu erwähnen. So finden Deine schon vorhandene Follower auf Twitter den neuen Mastodon Account, um Dir auch dort folgen zu können.
+~~Bei einem Umzug von Twitter ist es außerdem ratsam, Dein neues Mastodon Handle in der Twitter Biografie zu erwähnen. So finden Deine schon vorhandene Follower auf Twitter den neuen Mastodon Account, um Dir auch dort folgen zu können.~~ Leider ist das bei Twitter nun verboten.
 
 ## Wie folgt man?
 
