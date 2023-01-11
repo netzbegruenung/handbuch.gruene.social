@@ -4,7 +4,7 @@
 
 Auch wenn wir uns freuen, wenn Nutzer primär Mastodon nutzen, kann es manchmal Gründe geben, die Kommuniation primär über Twitter abzuwickeln und auf Mastodon nur eine Kopie der Tweets dazulassen. Oder man nutzt sogar primär Mastodon und lässt auf Twitter nur noch Kopien der eigenen Toots. Mit dieser Anleitung möchten wir dir zunächst zeigen, wie du Tweets auf Mastodon crossposten kannst.
 
-Die wohl einfachste Form besteht darin, den Crossposter von [masto.donte.com.br](https://crossposter.masto.donte.com.br/) zu nutzen.
+Die wohl einfachste Form besteht darin, den [Crossposter der Netzbegruenung](https://mastodon-cross.netzbegruenung.verdigado.net/) zu nutzen.
 
 Dort musst du der Anwendung Zugriff auf deinen Twitter-Feed geben (Hinweis zu den geforderten Rechten ganz unten).
 
